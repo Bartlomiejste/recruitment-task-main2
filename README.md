@@ -1,6 +1,6 @@
-**🚀 Contracts Management System**
+**🚀 System zarządzania kontraktami**
                                                                                                                                 
-System zarządzania kontraktami z wykorzystaniem PHP 8, PSR-7 i wzorców obiektowych. Aplikacja umożliwia filtrowanie, sortowanie oraz wyświetlanie danych kontraktów w czytelnej tabeli.
+System do zarządzania kontraktami z wykorzystaniem PHP 8, PSR-7 i wzorców obiektowych. Aplikacja umożliwia filtrowanie, sortowanie oraz wyświetlanie danych kontraktów w czytelnej tabeli.
 
 
 
